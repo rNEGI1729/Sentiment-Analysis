@@ -1,5 +1,7 @@
 # Sentiment Analysis Model using TF-IDF and Logistic Regression
 
+## App : https://moodsense.streamlit.app/
+
 ## Overview
 This project is a **sentiment analysis model** built using **TF-IDF vectorization** and **Logistic Regression**. It predicts whether a given text has a **positive** or **negative** sentiment.
 
